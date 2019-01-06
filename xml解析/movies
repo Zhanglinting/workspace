@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<collection shelf="New Arrivals">
+   <movie title="Enemy Behind">
+      <type>War, Thriller</type>
+      <format>DVD</format>
+      <year>2003</year>
+   </movie>
+   <movie title="Transformers">
+      <type>Anime, Science Fiction</type>
+      <format>DVD</format>
+      <year>1989</year>
+   </movie>
+   <movie title="Trigun">
+      <type>Anime, Action</type>
+      <format>DVD</format>
+   </movie>
+   <movie title="Ishtar">
+      <type>Comedy</type>
+      <format>VHS</format>
+   </movie>
+</collection>
